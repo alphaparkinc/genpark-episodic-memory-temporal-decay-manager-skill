@@ -1,0 +1,20 @@
+{
+  "name": "genpark-episodic-memory-temporal-decay-manager-skill",
+  "version": "1.0.0",
+  "description": "Ebbinghaus forgetting curve memory decay with access recency, frequency weighting, and consolidation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "memory-decay",
+    "ebbinghaus-forgetting",
+    "episodic-memory",
+    "memory-consolidation",
+    "recency-weighting",
+    "python-standard-library",
+    "agent-skills",
+    "agent-memory",
+    "cognitive-modeling",
+    "time-series"
+  ]
+}
