@@ -1,0 +1,6 @@
+name: genpark-episodic-memory-temporal-decay-manager-skill
+version: 1.0.0
+description: Ebbinghaus forgetting curve memory decay with access recency, frequency weighting, and consolidation
+command: python
+args:
+  - mcp_server.py
