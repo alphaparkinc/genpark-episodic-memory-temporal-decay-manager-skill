@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-episodic-memory-temporal-decay-manager-skill"
+version = "1.0.0"
+description = "Ebbinghaus forgetting curve memory decay with access recency, frequency weighting, and consolidation"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
